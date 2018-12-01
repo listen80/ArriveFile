@@ -1,0 +1,6 @@
+[
+	{ "caption": "-", "id": "folder_commands" },
+	{ "caption": "-"},
+	{ "caption": "Open Folder...", "command": "open_folder", "args": {"dirs": []} },
+	{ "caption": "-", "id": "end" }
+]

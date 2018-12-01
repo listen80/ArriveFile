@@ -1,0 +1,6 @@
+[
+    { "caption": "-", "id": "file" },
+    { "caption": "-"},
+    { "command": "copy_file_name", "caption": "Copy File Name" },
+    { "caption": "-", "id": "end" }
+]
